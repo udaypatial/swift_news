@@ -1,0 +1,275 @@
+{
+    "kind": "Listing",
+    "data": {
+        "modhash": "",
+        "dist": 26,
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "swift",
+                    "selftext": "",
+                    "author_fullname": "t2_5jmuv84r",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "is_gallery": true,
+                    "title": "Add progress bars to your gifs! ProgressGif is now out on the App Store! (open-source, more details below)",
+                    "link_flair_richtext": [],
+                    "subreddit_name_prefixed": "r/swift",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "project",
+                    "downs": 0,
+                    "thumbnail_height": 120,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "media_metadata": {
+                        "n1jx4qtj40g51": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/png",
+                            "p": [
+                                {
+                                    "y": 93,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/n1jx4qtj40g51.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=5fdf844824f21101207c6e7b71149b5f2c7f7194"
+                                },
+                                {
+                                    "y": 186,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/n1jx4qtj40g51.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=f91c5fc9c840ca5da130c68cfa789e5c0a2d8c2a"
+                                },
+                                {
+                                    "y": 276,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/n1jx4qtj40g51.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=865de396364ca7149194e5c1750b4c3c1691bf67"
+                                },
+                                {
+                                    "y": 553,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/n1jx4qtj40g51.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f5e01d4508d00d4045f3869567b2068de6febd09"
+                                },
+                                {
+                                    "y": 829,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/n1jx4qtj40g51.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=8a20b15a0122ce4432d4d684fea9471ad93ff984"
+                                },
+                                {
+                                    "y": 933,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/n1jx4qtj40g51.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=bb24ce1b5d73ccb236ca7dc899047cbddd75f2f8"
+                                }
+                            ],
+                            "s": {
+                                "y": 2100,
+                                "x": 2430,
+                                "u": "https://preview.redd.it/n1jx4qtj40g51.png?width=2430&amp;format=png&amp;auto=webp&amp;s=a70b4ac1c9e9699850b12cee3c865251ff0de0df"
+                            },
+                            "id": "n1jx4qtj40g51"
+                        },
+                        "41cgxjek40g51": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/png",
+                            "p": [
+                                {
+                                    "y": 93,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/41cgxjek40g51.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=d78c721a6cae05cc90b05cd3d011b64b05bfed55"
+                                },
+                                {
+                                    "y": 186,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/41cgxjek40g51.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=a6d5ee99d949161a932466be3ac8cb863c554ec6"
+                                },
+                                {
+                                    "y": 276,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/41cgxjek40g51.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b8a2621ca7d6807e585c9298c50b9222050ff9c8"
+                                },
+                                {
+                                    "y": 553,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/41cgxjek40g51.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=307a09487e676520dadc46a08ea98c3a54d4ca0d"
+                                },
+                                {
+                                    "y": 829,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/41cgxjek40g51.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=dc6c6f241974719efb601537480ea8368fc23aaa"
+                                },
+                                {
+                                    "y": 933,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/41cgxjek40g51.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=5fabf6072796f7c9ffe3c6527a56a3d69d3474d6"
+                                }
+                            ],
+                            "s": {
+                                "y": 2100,
+                                "x": 2430,
+                                "u": "https://preview.redd.it/41cgxjek40g51.png?width=2430&amp;format=png&amp;auto=webp&amp;s=087566eb08931049e96a6185952a3feb1ad5884b"
+                            },
+                            "id": "41cgxjek40g51"
+                        },
+                        "4obcf85k40g51": {
+                            "status": "valid",
+                            "e": "Image",
+                            "m": "image/png",
+                            "p": [
+                                {
+                                    "y": 78,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/4obcf85k40g51.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=dc5ba9ae3b39309d908058ea96745f7b4e2b052c"
+                                },
+                                {
+                                    "y": 156,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/4obcf85k40g51.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=6548fd2199c39a1e3418f03d39259758e7617af7"
+                                },
+                                {
+                                    "y": 231,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/4obcf85k40g51.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=6bba42d03f6de683f2950ceea8694f47c5eefd20"
+                                },
+                                {
+                                    "y": 462,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/4obcf85k40g51.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=35414df5a89760dc0a2a64f8064245f35541d096"
+                                },
+                                {
+                                    "y": 693,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/4obcf85k40g51.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=35a3e5e1772315ceeb94e37ef4a0b556aca826bf"
+                                },
+                                {
+                                    "y": 780,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/4obcf85k40g51.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=17d1f7ec73186ee86abce24a935983b4d4271942"
+                                }
+                            ],
+                            "s": {
+                                "y": 2100,
+                                "x": 2905,
+                                "u": "https://preview.redd.it/4obcf85k40g51.png?width=2905&amp;format=png&amp;auto=webp&amp;s=d7a7afcdd3255dd7170db91cbd0110ec9fa569b4"
+                            },
+                            "id": "4obcf85k40g51"
+                        }
+                    },
+                    "name": "t3_i6m0bv",
+                    "quarantine": false,
+                    "link_flair_text_color": "light",
+                    "upvote_ratio": 0.88,
+                    "author_flair_background_color": null,
+                    "subreddit_type": "public",
+                    "ups": 30,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": "bf2bcb5a-eabf-11e3-9836-12313d19252b",
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "gallery_data": {
+                        "items": [
+                            {
+                                "caption": "This was my side project for the past month! App Store link here",
+                                "outbound_url": "https://apps.apple.com/us/app/id1526969349",
+                                "media_id": "n1jx4qtj40g51",
+                                "id": 1550445
+                            },
+                            {
+                                "caption": "GitHub link here",
+                                "outbound_url": "https://github.com/aheze/ProgressGif",
+                                "media_id": "4obcf85k40g51",
+                                "id": 1550446
+                            },
+                            {
+                                "media_id": "41cgxjek40g51",
+                                "id": 1550447
+                            }
+                        ]
+                    },
+                    "link_flair_text": "Project",
+                    "can_mod_post": false,
+                    "score": 30,
+                    "approved_by": null,
+                    "author_premium": true,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/U716CaVPng-DmYpZvj2pwVQV9t6JcQYHhwTI6G6TsDM.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "content_categories": null,
+                    "is_self": false,
+                    "mod_note": null,
+                    "created": 1597018657.0,
+                    "link_flair_type": "text",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "reddit.com",
+                    "allow_live_comments": true,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://www.reddit.com/gallery/i6m0bv",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "9ce8e7f6-6ca1-11e6-b2ac-0efa16e0be77",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": "iOS",
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2z6zi",
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#eeaf3e",
+                    "id": "i6m0bv",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "aheze",
+                    "discussion_type": null,
+                    "num_comments": 5,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": "dark",
+                    "permalink": "/r/swift/comments/i6m0bv/add_progress_bars_to_your_gifs_progressgif_is_now/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/gallery/i6m0bv",
+                    "subreddit_subscribers": 69197,
+                    "created_utc": 1596989857.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "after": "t3_i6bcbb",
+        "before": null
+    }
+}
+
