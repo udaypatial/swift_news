@@ -13,7 +13,4 @@ profile
 *.moved-aside
 DerivedData
 .idea/
-.xcworkspace
-Pods/
-Podfile.lock
 *.xccheckout
